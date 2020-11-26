@@ -1,0 +1,16 @@
+builders:
+  hive2moorGenerator:
+    import: "package:hive2moor/hive2moor.dart"
+    builder_factories: ["hive2moorGenerator"]
+    build_extensions: { ".dart": ["hive2moor.g.part"] }
+    auto_apply: dependents
+    build_to: cache
+    applies_builders: ["source_gen|combining_builder"]
+  # hive2moorBuilder:
+  #   import: "package:hive2moor/hive2moor.dart"
+  #   builder_factories: ["hive2moorBuilder"]
+  #   build_extensions:
+  #     .dart:
+  #       - .g.dart
+  #   build_to: source
+  #   auto_apply: root_package

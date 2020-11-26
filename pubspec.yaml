@@ -1,0 +1,20 @@
+name: hive2moor
+description: Convert Hive files to Moor table definitions.
+version: 0.0.7
+homepage: https://github.com/LOLwierd/hive2moor
+repository: https://github.com/LOLwierd/hive2moor
+
+environment:
+  sdk: ">=2.8.1 <3.0.0"
+
+dependencies:
+  path: ^1.7.0
+  build: ^1.3.0
+  source_gen: ^0.9.7+1
+  analyzer: ^0.39.14
+
+dev_dependencies:
+  pedantic:
+  test:
+  build_config:
+  build_runner:

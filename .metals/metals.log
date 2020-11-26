@@ -1,0 +1,10 @@
+2020.11.21 15:24:22 INFO  Started: Metals version 0.9.5 in workspace '/Users/ayaan/Projects/CMS/hive2moor' for client vscode.
+2020.11.21 15:24:32 INFO  time: initialize in 10s
+2020.11.21 15:24:46 WARN  Build server is not auto-connectable.
+2020.11.21 15:24:46 WARN  no build tool detected in workspace '/Users/ayaan/Projects/CMS/hive2moor'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.21 15:49:05 INFO  shutting down Metals
+2020.11.22 17:17:05 INFO  Started: Metals version 0.9.6 in workspace '/Users/ayaan/Projects/CMS/hive2moor' for client vscode.
+2020.11.22 17:17:16 INFO  time: initialize in 11s
+2020.11.22 17:17:45 WARN  Build server is not auto-connectable.
+2020.11.22 17:17:45 WARN  no build tool detected in workspace '/Users/ayaan/Projects/CMS/hive2moor'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.23 14:41:06 INFO  shutting down Metals
